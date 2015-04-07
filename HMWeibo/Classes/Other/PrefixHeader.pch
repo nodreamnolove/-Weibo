@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  HMWeibo
+//
+//  Created by mac on 15/4/5.
+//  Copyright (c) 2015年 mac. All rights reserved.
+//
+
+#ifndef HMWeibo_PrefixHeader_pch
+#define HMWeibo_PrefixHeader_pch
+#import "UIImage+HW.h"
+#define IOS7 ([[UIDevice currentDevice].systemVersion doubleValue] >= 7)
+
+
+
+#endif
